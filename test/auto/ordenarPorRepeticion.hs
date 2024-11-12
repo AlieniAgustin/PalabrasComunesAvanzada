@@ -1,0 +1,1 @@
+if (ordenarPorRepeticion [(2, "a"), (10, "hola"), (4, "todos")]) == [(10, "hola"), (4, "todos"), (2, "a")] then "OKTEST" else "Test: Fail!"

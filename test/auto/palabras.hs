@@ -1,0 +1,1 @@
+if (palabras "") == [] && (palabras "Hola a  Todos ") == ["Hola", "a", "Todos"] then "OKTEST" else "Test: Fail!"
