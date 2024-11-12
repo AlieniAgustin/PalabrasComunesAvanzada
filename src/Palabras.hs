@@ -1,7 +1,6 @@
 -- Equipo De Trabajo:
 -- Agustin Alieni, 46332866
 -- Damian Dalio, 45801187
--- Hernan Jara, 46226878
 
 {-- Este modulo provee las funcionalidades basicas del TP, se deben implementar todas las funciones
     que estan indefinidas.
